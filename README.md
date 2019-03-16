@@ -1,3 +1,3 @@
 # BuNe - Demo-01
 
-![alt text](http://url/to/img.png)
+![alt test](https://github.com/yusufbasol/BuNe/demo.png)
