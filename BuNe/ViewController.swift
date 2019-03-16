@@ -25,6 +25,7 @@ class ViewController: UIViewController, UIImagePickerControllerDelegate, UINavig
         super.viewDidLoad()
         resimYakala.delegate = self
         resimYakala.sourceType = .camera
+        //resimYakala.sourceType = .photoLibrary 
         resimYakala.allowsEditing = false 
     }
 // didfinished yazınca fonk otomatik cikiyor.
