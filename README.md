@@ -1,3 +1,3 @@
-# BuNe - Demo-01
+# BuNe - Demo
 
-![alt test](https://github.com/yusufbasol/BuNe/demo.png)
+![01](https://github.com/yusufbasol/BuNe/blob/master/demo-01.png)
